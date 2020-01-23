@@ -5,7 +5,7 @@ Graham Goerg
 Joseph Kocis
 Ian Pleau
 
-#Vision Statement
+# Vision Statement
 ## Target Market
 1. Streaming music service users
 ## Who / That
