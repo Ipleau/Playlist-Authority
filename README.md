@@ -34,3 +34,5 @@ This service will prove to benefit people who are users of both services who are
 ## How does the product compare against similar products already on the market?
 Compared to similar services, our product will not be able to match the same variety of available streaming music services, however, compared to common workarounds that people are using, our solution is easier to use.
 
+# Trello
+[Playlist Authority Trello](https://trello.com/b/s7uX0ZY9/group-9-project)
