@@ -1,6 +1,3 @@
-# GitHub Repo
-https://github.com/Joseph-Kocis/Object-Oriented-Project
-
 # Target Market
 1. Streaming music service users
 # Who / That
