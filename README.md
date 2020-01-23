@@ -1,8 +1,11 @@
 # Playlist Authority Project for COP 4331 - Spring 2019
 ## Team Members
 Evan Berrier
+
 Graham Goerg
+
 Joseph Kocis
+
 Ian Pleau
 
 # Vision Statement
