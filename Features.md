@@ -1,7 +1,11 @@
-#Features
+# Features
 
-Login
+Individual Accounts
 
-Account Linking
+Log in/Log out
+
+Stream service linking
 
 Playlist import/export
+
+import/export history
