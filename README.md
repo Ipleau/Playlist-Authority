@@ -15,9 +15,9 @@ Ian Pleau
 
 ## Sprint 1
 
-- Product Backlog
-- Spring Backlog
-- Requirements
+- [Product Backlog](https://github.com/Joseph-Kocis/Playlist-Authority/blob/master/artifacts/Product%20Backlog.md)
+- [Spring Backlog](https://github.com/Joseph-Kocis/Playlist-Authority/blob/master/artifacts/Sprint%201%20Backlog.md)
+- [Requirements](https://github.com/Joseph-Kocis/Playlist-Authority/blob/master/artifacts/Requirements.md)
 - [Playlist Authority Trello](https://trello.com/b/s7uX0ZY9/group-9-project)
 - [Burndown Chart](https://docs.google.com/spreadsheets/d/10c9Y616LxQ4ofuoL96D6kGpoFNP8WnuWnjQCk5A_ekI/edit?usp=sharing)
 - [Velocity Chart](https://docs.google.com/spreadsheets/d/1YIK11OSUo3puKVAhAjmKivfyoQqFW5sK2Z5_2rCFb0I/edit?usp=sharing)
