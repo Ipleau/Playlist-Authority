@@ -19,5 +19,5 @@ Ian Pleau
 - Spring Backlog
 - Requirements
 - [Playlist Authority Trello](https://trello.com/b/s7uX0ZY9/group-9-project)
-- Burndown Chart
-- Velocity Chart
+- [Burndown Chart](https://docs.google.com/spreadsheets/d/10c9Y616LxQ4ofuoL96D6kGpoFNP8WnuWnjQCk5A_ekI/edit?usp=sharing)
+- [Velocity Chart](https://docs.google.com/spreadsheets/d/1YIK11OSUo3puKVAhAjmKivfyoQqFW5sK2Z5_2rCFb0I/edit?usp=sharing)
